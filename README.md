@@ -1,4 +1,4 @@
-```markdown
+
 # 📈 NIFTY-50 Investment Intelligence Platform
 > Data-driven investment intelligence using 21 years of NSE India market data (2000–2021)
 
@@ -142,6 +142,3 @@ Comprehensive risk metrics per portfolio:
 
 ## 👥 Team
 Built as part of a data science competition on AI-powered investment intelligence.
-```
-
----
